@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vielsoft-dev-6/Desktop/ionic/mysoundboard/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/release/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7637a4e4beaef5e36297c97eaf8813c6a1ee6110">
+        <dex dex="/home/vielsoft-dev-6/Desktop/ionic/mysoundboard/platforms/android/build/intermediates/pre-dexed/release/CordovaLib-unspecified-release_09b9f19601bef200cd096efd36f7002d7a6842e9.jar" />
+    </item>
+    <item
+        jar="/home/vielsoft-dev-6/Desktop/ionic/mysoundboard/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7955754f8c8f0061c312ac08b3225c5f01d176ca">
+        <dex dex="/home/vielsoft-dev-6/Desktop/ionic/mysoundboard/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_d2e55b0f21fdb39156f4a9fc70b1405f5e37d3a9.jar" />
+    </item>
+
+</items>
